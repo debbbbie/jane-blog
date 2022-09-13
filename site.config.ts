@@ -18,7 +18,7 @@ export default siteConfig( {
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
-  github: 'a',
+  // github: 'a',
   //github: 'transitive-bullshit',
   //linkedin: 'fisch2',
   // newsletter: '#', // optional newsletter URL
