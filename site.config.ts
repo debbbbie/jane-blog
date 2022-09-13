@@ -1,6 +1,6 @@
 import { siteConfig } from './lib/site-config'
 
-export default siteConfig({
+export default siteConfig( {
   // the site's root Notion page (required)
   rootNotionPageId: 'b5656c9cf9754cbd927d7822ffe6a4b3',
 
